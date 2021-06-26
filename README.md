@@ -12,14 +12,27 @@
 	Je développe des petits projets lors de mes temps libres
 </p>
 <p align="center">
-	[🌍 Mon site Internet](https://www.arko.fr)
+	🌍 Mon site Internet : https://www.arko.fr
+
 </p>
 <p align="center">
-	[🎨 Ma propre API](https://www.arko.fr/api)
+	🎨 Ma propre API : https://www.arko.fr/api
 </p>	
 <p align="center">
-	[📺 Ma chaîne YouTube](https://www.youtube.com/channel/jlarkoo)
+	📺 Ma chaîne YouTube : https://www.youtube.com/channel/jlarkoo
 </p>	
 <p align="center">	
-	[💬 Mon serveur Discord](https://www.discord.gg/jlarkoo)
+	💬 Mon serveur Discord : https://www.discord.gg/jlarkoo
+</p>
+
+<p align="center">
+	⚙️ Mes statistiques	
+</p>
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLArkoo&theme=tokyonight" />	
+</p>
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=JLArkoo&show_icons=true&theme=tokyonight" />	
 </p>
